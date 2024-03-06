@@ -1,1 +1,1 @@
-console.log("estou no dia 2 APREDNI GIT DISK")
+console.log("estou no dia 2 APRENDI GIT DISK")
